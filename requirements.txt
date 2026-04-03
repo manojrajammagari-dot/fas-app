@@ -1,0 +1,6 @@
+pandas
+pypdf
+reportlab
+openpyxl
+cloudinary
+requests
